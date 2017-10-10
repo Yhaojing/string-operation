@@ -1,6 +1,6 @@
 {
   "name": "string-operation",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "string operation utils",
   "main": "index.js",
   "scripts": {
